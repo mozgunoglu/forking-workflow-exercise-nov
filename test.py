@@ -1,6 +1,8 @@
 """
 This will loop through all files *.md and check that they contain the string
 'taco' (case-insensitive).
+
+Good to see it
 """
 
 from __future__ import print_function
